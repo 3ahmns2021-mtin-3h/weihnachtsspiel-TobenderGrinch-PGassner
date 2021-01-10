@@ -1,13 +1,13 @@
-# Template2D-Unity202015f1
+# weihnachtsspiel-TobenderGrinch-PGassner
 
 ### Project description: 
 Introduction/Project summary 
 
 ### Development platform: 
-(OS, Unity Version, Visual Studio Version, used SDKs)
+(Windows, Unity Version 2020.15.f1, Visual Studio 2019, used SDKs)
 
 ### Target platform: 
-WebGL, Mobile, VR Device incl. reference resolution 
+WebGL, Ref,Res 960x600, screen independent, VR Device incl. reference resolution 
 
 ### Visuals: 
 Screenshots (concept and experience), Video
@@ -25,4 +25,4 @@ incl. progress in percent
 
 ### Lessons Learned: 
 
-Copyright by you :)
+Copyright by PGassner
