@@ -1,7 +1,7 @@
 # weihnachtsspiel-TobenderGrinch-PGassner
 
 ### Project description: 
-Introduction/Project summary 
+christmas game
 
 ### Development platform: 
 (Windows, Unity Version 2020.15.f1, Visual Studio 2019, used SDKs)
@@ -19,7 +19,7 @@ Installation process, e.g. step by step instructions that I can run the project 
 (if used Fonts, Sounds, Music, Graphics, Materials, Code etc.)
 
 ### Project state: 
-incl. progress in percent
+coding, no graphics, no animations
 
 ### Limitations: 
 
