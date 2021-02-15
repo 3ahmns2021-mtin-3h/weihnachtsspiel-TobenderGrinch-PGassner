@@ -10,7 +10,10 @@ christmas game
 WebGL, Ref,Res 960x600, screen independent, VR Device incl. reference resolution 
 
 ### Visuals: 
-Screenshots (concept and experience), Video
+<div>
+    <img src="./Screenshots/ProjectWindow.png" width="400">
+    <img src="./Screenshots/Game.png" width="400">
+</div>
 
 ### Necessary setup/execution steps: 
 Installation process, e.g. step by step instructions that I can run the project after cloning it
