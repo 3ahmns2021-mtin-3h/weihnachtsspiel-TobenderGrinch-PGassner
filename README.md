@@ -24,6 +24,14 @@ Installation process, e.g. step by step instructions that I can run the project 
 ### Project state: 
 coding, no graphics, no animations
 
+### MVP
+•Aufsetzen des 2D Projekts screen-independent (960x600) mit git/GitHub
+•Player movement Horizontal 
+•Timer 1 Minute (mechanic & display)
+•Collectibles & Enemies spawnen & movement
+•Score mechanic: Collectibles, Player, Enemies Collisions & Trigger events
+•Score display
+
 ### Limitations: 
 
 ### Lessons Learned: 
